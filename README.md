@@ -1,2 +1,2 @@
 # CSS-assignments
-CSS bootcamp assignments
+CSS bootcamp assignments practice
